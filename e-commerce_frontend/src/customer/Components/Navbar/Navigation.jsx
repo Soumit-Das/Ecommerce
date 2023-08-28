@@ -15,6 +15,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { deepPurple } from "@mui/material/colors";
 import { getUser, logout } from "../../../Redux/Auth/Action";
 import { getCart } from "../../../Redux/Customers/Cart/Action";
+import IMAGES from "../../../Images/index";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
@@ -265,7 +266,7 @@ export default function Navigation() {
                 <Link to="/">
                   <span className="sr-only">Your Company</span>
                   <img
-                    src="https://res.cloudinary.com/ddkso1wxi/image/upload/v1675919455/Logo/Copy_of_Zosh_Academy_nblljp.png"
+                    src={IMAGES.imgTwo}
                     alt="Shopwithzosh"
                     className="h-8 w-8 mr-2"
                   />
