@@ -14,7 +14,7 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Page
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Page
 
 ---
 
@@ -65,12 +65,7 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 
 <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/PaymentSucessPage.png" alt="Payment Success Page" width="100%" height="550">
 
-![CartPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
-![DeliveryAddressPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
-![OrderSummaryPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
-![PaymentVerificationPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
-![PaymentModePage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
-![PaymentSuccessPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
+
 
 
 ## ER Diagram
