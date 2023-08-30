@@ -15,13 +15,13 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All Product Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Page
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All Product Page&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Page
 
 ---
 
 <div style="display: flex;">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/AllProductsPage.png" alt="AllProductPage" width="400" height="550" style="margin-right: 20">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/ProductPage.png" alt="ProductPage" width="400" height="550">
+  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/AllProductsPage.png" alt="AllProductPage" width="410" height="550" style="margin-right: 20">
+  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/ProductPage.png" alt="ProductPage" width="410" height="550">
 </div>
 
 ---
