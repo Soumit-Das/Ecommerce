@@ -14,8 +14,8 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/HomePage%20Full.jpeg" alt="HomePage" width="100%" height="1250">
 
 <div style="display: flex;">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/AllProductsPage.png" alt="HomePage" width="600" style="margin-right: 20">
-  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/ProductPage.png" alt="Another Image" width="600">
+  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/AllProductsPage.png" alt="HomePage" width="400" style="margin-right: 20">
+  <img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/ProductPage.png" alt="Another Image" width="400">
 </div>
 
 
