@@ -19,11 +19,11 @@ function Navbar() {
             <Link to="/" className="flex items-center py-6">
               <img
                 src={IMAGES.imgTwo}
-                alt="Shopwithzosh"
+                alt="TrendLuxe"
                 className="h-8 w-8 mr-2"
               />
               <span className="font-bold text-white text-lg">
-                TrendLuxe
+              TrendLuxe
               </span>
             </Link>
 
