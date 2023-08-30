@@ -1,7 +1,7 @@
 # TrendLuxe E-commerce Website
 
 
-<img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/TrendLuxe.png" alt="ProductPage" width="100%" height="500">
+<img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/TrendLuxe.png" alt="ProductPage" width="70%" height="500">
 
 Welcome to the official repository of TrendLuxe, your ultimate destination for fashion and style. Explore a wide range of men's and women's clothing and accessories that are sure to enhance your wardrobe. Our platform offers a seamless shopping experience with advanced features and a user-friendly interface.
 
