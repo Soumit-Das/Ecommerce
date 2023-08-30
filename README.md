@@ -11,7 +11,7 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 - Checkout and Payments: Seamless checkout process with Razorpay API integration for secure payments.
 ## Screenshots
 
-<img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/HomePage%20Full.jpeg" alt="HomePage" width="400" height="500">
+<img src="https://github.com/Soumit-Das/Ecommerce/blob/main/e-commerce_frontend/src/Images/HomePage%20Full.jpeg" alt="HomePage" width="700" height="700">
 ![AllProductsPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
 ![ProductPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
 ![CartPage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
