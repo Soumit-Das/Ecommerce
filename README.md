@@ -10,7 +10,8 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 - Add to Cart: Build your cart by adding desired items while you shop.
 - Checkout and Payments: Seamless checkout process with Razorpay API integration for secure payments.
 ## Screenshots
-Insert some captivating screenshots of your website here to showcase its design and functionality.
+![HomePage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
+![HomePage](https://github.com/your-username/your-repo/raw/main/images/screenshot.png)
 
 ## ER Diagram
 ER Diagram
