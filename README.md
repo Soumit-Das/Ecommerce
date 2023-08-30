@@ -89,10 +89,4 @@ ER Diagram
 4. Start the backend server.
 5. Run the frontend using npm start.
 6. Visit http://localhost:3000 in your web browser to access TrendLuxe.
-## Contributing
-We welcome contributions from everyone. To contribute, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your enhancements or fixes.
-4. Submit a pull request describing your changes.
