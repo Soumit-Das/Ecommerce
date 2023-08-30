@@ -20,7 +20,7 @@ ER Diagram
 - Frontend: ReactJS
 - Frontend Dependencies: Material UI, Material UI Icons, React Alice Carousel, Headless UI/React, Heroicons/React, Tailwind CSS
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/TrendLuxe.git
+1. Clone the repository: git clone https://github.com/Soumit-Das/Ecommerce.git
 2. Set up the backend using Spring Boot and MySQL. Make sure to configure your database settings.
 3. Set up the frontend using ReactJS and install the required dependencies using npm install.
 ## Usage
