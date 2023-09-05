@@ -88,12 +88,12 @@ TrendLuxe is an e-commerce website specializing in fashion products. Whether you
 ## Installation
 1. Clone the repository: git clone https://github.com/Soumit-Das/Ecommerce.git
 2. Set up the backend using Spring Boot and MySQL. Make sure to configure your database settings.
-3. Set up the frontend using ReactJS and install the required dependencies using npm install.
+3. Set up the front-end using ReactJS and install the required dependencies using npm install.
 ## Usage
 4. Start the backend server.
-5. Run the frontend using npm start.
+5. Run the front-end using npm start.
 6. Visit http://localhost:3000 in your web browser to access TrendLuxe.
 
 ## Project Prsentation 
-[Project Prsentation video](https://drive.google.com/file/d/13T5Y1LZdPCxpRkZP1JIkZke_sIo506x9/view?usp=sharing)   
+[Project Presentation video](https://drive.google.com/file/d/13T5Y1LZdPCxpRkZP1JIkZke_sIo506x9/view?usp=sharing)   
 
